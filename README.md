@@ -1,6 +1,6 @@
 # fandangonow.com/activate
 
- [![fandangonow.com/activate](gett-starteed.png)](https://github.com/fandangonowcomactivate/)
+ [![fandangonow.com/activate](get-started.png)](https://github.com/fandangonowcomactivate/)
 
 
  [Fandangonow.com/activate](https://github.com/fandangonowcomactivate/) - Fandango is a movie ticketing company that also has a streaming service. The company was established in 2000 and is currently owned by NBCUniversal and Warner Bros Entertainment.
